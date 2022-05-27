@@ -1,0 +1,8 @@
+[debug] > Exec(Gatling-test, None, None)
+[error] Not a valid command: Gatling-test
+[error] Not a valid project ID: Gatling-test
+[error] Expected ':'
+[error] Not a valid key: Gatling-test
+[error] Gatling-test
+[error]             ^
+[debug] > Exec(idea-shell, None, None)

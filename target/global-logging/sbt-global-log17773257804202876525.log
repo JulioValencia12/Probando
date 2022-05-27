@@ -1,0 +1,13 @@
+[debug] > Exec(Gatling/test, None, None)
+[debug] Evaluating tasks: Gatling / test
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to D:\PrP\untitled\target\scala-2.13\classes ...
+[info] Non-compiled module 'compiler-bridge_2.13' for Scala 2.13.8. Compiling...
+[info]   Compilation completed in 12.512s.
+[info] done compiling
+[info] compiling 1 Scala source to D:\PrP\untitled\target\scala-2.13\test-classes ...
+[info] done compiling
+[info] Simulation BasicSimulation successful.
+[info] Simulation(s) execution ended.
+[success] Total time: 29 s, completed 24 may 2022 15:13:24
+[debug] > Exec(idea-shell, None, None)

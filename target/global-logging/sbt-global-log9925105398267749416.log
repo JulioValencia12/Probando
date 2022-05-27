@@ -1,0 +1,13 @@
+[debug] > Exec(gatling test, None, None)
+[error] Expected ID character
+[error] Not a valid command: gatling (similar: alias, settings)
+[error] Expected project ID
+[error] Expected configuration
+[error] Expected ':'
+[error] Expected key
+[error] Not a valid key: gatling (similar: asString, mappings)
+[error] gatling test
+[error]        ^
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
