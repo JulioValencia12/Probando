@@ -1,0 +1,8 @@
+RUN	jj.test2	test2	1653675200864	 	3.7.6
+USER	Post new games	START	1653675202364
+REQUEST		Post New Game	1653675202408	1653675202419	KO	j.n.ConnectException: finishConnect(..) failed: Connection refused
+REQUEST		Post New Game	1653675203436	1653675203440	KO	j.n.ConnectException: finishConnect(..) failed: Connection refused
+REQUEST		Post New Game	1653675204448	1653675204452	KO	j.n.ConnectException: finishConnect(..) failed: Connection refused
+REQUEST		Post New Game	1653675205458	1653675205463	KO	j.n.ConnectException: finishConnect(..) failed: Connection refused
+REQUEST		Post New Game	1653675206472	1653675206478	KO	j.n.ConnectException: finishConnect(..) failed: Connection refused
+USER	Post new games	END	1653675207485

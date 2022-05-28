@@ -1,0 +1,10 @@
+{
+  "simulation": "jj.test2",
+  "simulationId": "test2",
+  "start": 1653675200864,
+  "description": "",
+  "scenarios": ["Post new games"],
+  "assertions": [
+
+  ]
+}

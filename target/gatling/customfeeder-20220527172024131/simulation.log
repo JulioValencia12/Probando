@@ -1,0 +1,8 @@
+RUN	jj.CustomFeeder	customfeeder	1653672024131	 	3.7.6
+USER	Post new games	START	1653672025636
+REQUEST		Post New Game	1653672025685	1653672025696	KO	j.n.ConnectException: finishConnect(..) failed: Connection refused
+REQUEST		Post New Game	1653672026727	1653672026733	KO	j.n.ConnectException: finishConnect(..) failed: Connection refused
+REQUEST		Post New Game	1653672027740	1653672027746	KO	j.n.ConnectException: finishConnect(..) failed: Connection refused
+REQUEST		Post New Game	1653672028753	1653672028758	KO	j.n.ConnectException: finishConnect(..) failed: Connection refused
+REQUEST		Post New Game	1653672029768	1653672029772	KO	j.n.ConnectException: finishConnect(..) failed: Connection refused
+USER	Post new games	END	1653672030781

@@ -1,1 +1,1 @@
-[[{},{}],{}]
+[[{"${BASE}/src/test/resources/bodies/NewGameTemplate.json":["${BASE}/target/scala-2.13/test-classes/bodies/NewGameTemplate.json"]},{"${BASE}/target/scala-2.13/test-classes/bodies/NewGameTemplate.json":["${BASE}/src/test/resources/bodies/NewGameTemplate.json"]}],{"${BASE}/src/test/resources/bodies/NewGameTemplate.json":{"file":"file:///home/ss1/Prueba/Probando/src/test/resources/bodies/NewGameTemplate.json","lastModified":1653671199128}}]

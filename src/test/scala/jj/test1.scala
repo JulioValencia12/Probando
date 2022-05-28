@@ -38,19 +38,19 @@ class test1 extends Simulation {
 
 }
 
-def randomUuid = UUID.randomUUID().toString
-val feeder = Iterator.continually(Map("user" -> randomUuid))
+//def randomUuid = UUID.randomUUID().toString
+//val feeder = Iterator.continually(Map("user" -> randomUuid))
 
-def createPostRequest = {
-http("createuser")
-.post("http://jsonplaceholder.typicode.com/posts")
-.body(StringBody("${user}"))
-.check(status.is(201))
-}
+//def createPostRequest = {
+//http("createuser")
+//.post("http://jsonplaceholder.typicode.com/posts")
+//.body(StringBody("${user}"))
+//.check(status.is(200))
+//}
 
-val scn = scenario("some load test")
-.feed(feeder)
-.exec(createPostRequest)
+//val scn = scenario("some load test")
+//.feed(feeder)
+//.exec(createPostRequest)
 
-setUp(scn.inject(atOnceUsers(100)))
-.maxDuration(20 minutes)
+//setUp(scn.inject(atOnceUsers(100)))
+//.maxDuration(20 minutes)
